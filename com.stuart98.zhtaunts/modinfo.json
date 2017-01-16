@@ -1,0 +1,32 @@
+{
+    "author": "Stuart98",
+    "build": "99377",
+    "context": "server",
+    "date": "2016-11-26",
+    "description": "Taunt your opponents using the Generals' Taunts from Command and Conquer Generals: Zero Hour. See forum thread for instructions.",
+    "display_name": "Zero Hour Taunts",
+    "forum": "none",
+    "identifier": "com.stuart98.zhtaunts",
+    "signature": "nobodycares",
+    "version": "1.0",
+    "scenes": {
+        "live_game_chat": [
+            "coui://ui/mods/zhtaunts/main.js"
+        ]
+    },
+    "searchable": [
+        "zh",
+        "voice",
+        "chat",
+        "taunt",
+        "generals",
+		"stuart98"
+    ],
+    "sort": "zero hour taunts",
+    "authors": [
+        "Stuart98"
+    ],
+    "icon": "",
+    "priority": 101,
+    "dependencies": ["com.flubbateios.sfx"]
+}
