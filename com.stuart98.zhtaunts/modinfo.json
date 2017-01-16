@@ -2,10 +2,10 @@
     "author": "Stuart98",
     "build": "99377",
     "context": "server",
-    "date": "2016-11-26",
+    "date": "2017/01/16",
     "description": "Taunt your opponents using the Generals' Taunts from Command and Conquer Generals: Zero Hour. See forum thread for instructions.",
     "display_name": "Zero Hour Taunts",
-    "forum": "none",
+    "forum": "https://forums.uberent.com/threads/rel-soon-zero-hour-taunt-mod.72264/",
     "identifier": "com.stuart98.zhtaunts",
     "signature": "nobodycares",
     "version": "1.0",
@@ -26,7 +26,7 @@
     "authors": [
         "Stuart98"
     ],
-    "icon": "",
+    "icon": "http://i.imgur.com/HMJR1or.jpg?1",
     "priority": 101,
     "dependencies": ["com.flubbateios.sfx"]
 }
